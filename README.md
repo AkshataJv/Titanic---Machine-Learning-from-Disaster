@@ -36,10 +36,10 @@ Follow these steps to set up the project locally:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/yourproject.git
+git clone https://github.com/AkshataJv/Titanic---Machine-Learning-from-Disaster.git
 
 # 2. Navigate into the project directory
-cd yourproject
+cd Titanic---Machine-Learning-from-Disaster
 
 # 3. Create a virtual environment (Python example)
 python -m venv venv
