@@ -14,11 +14,72 @@ A comprehensive **data analysis and machine learning project** that predicts pas
 - [Features](#-features)  
 - [Installation](#-installation-instructions)  
 - [Usage](#-usage)  
-- [Screenshots / GIFs](#-screenshots--gifs)  
-- [Technologies Used](#-technologies-used)  
-- [Contributing](#-contributing)  
-- [License](#-license)  
-- [Contact / Support](#-contact--support)  
+- [Technologies Used](Programming Languages: Python 3.x
+Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
+Tools: Jupyter Notebook / Google Colab
+Domain: Data Analysis, Machine Learning, Kaggle Competitions)
+
+## 🛠 Technologies Used
+Programming Languages: Python 3.x
+Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
+Tools: Jupyter Notebook / Google Colab
+Domain: Data Analysis, Machine Learning, Kaggle Competitions
+
+## 🤝 Contributing
+- [Contributing](Contributions are welcome! Follow these steps:
+
+1)Fork the repository.
+2)Create a new branch:
+git checkout -b feature/| Column / Feature  | Description                                          |
+| ----------------- | ---------------------------------------------------- |
+| `Pclass`          | Passenger class (1st, 2nd, 3rd)                      |
+| `Sex`             | Gender of the passenger                              |
+| `Age`             | Age of the passenger                                 |
+| `SibSp`           | Number of siblings/spouses aboard                    |
+| `Parch`           | Number of parents/children aboard                    |
+| `Fare`            | Ticket fare paid                                     |
+| `Embarked`        | Port of embarkation                                  |
+| `Title`           | Extracted from `Name`, e.g., Mr, Mrs, Miss           |
+| `Deck`            | Extracted from `Cabin`                               |
+| `family_size`     | Calculated as `SibSp + Parch + 1`                    |
+| `is_alone`        | 1 if passenger is alone, 0 otherwise                 |
+| `fare_per_person` | `Fare / family_size`                                 |
+| `FareBin`         | Fare grouped into bins for easier modeling           |
+| `IsChild`         | 1 if passenger ≤ 12 years old, else 0                |
+| `AgeGroup`        | Age categories: Child, Teen, Adult, etc.             |
+| `Pclass_Title`    | Combination of `Pclass` and `Title` for more context |
+
+3)Make your changes and commit:
+git commit -m "Add feature X"
+4)Push to the branch:
+git push origin feature/  |
+| ----------------- | ---------------------------------------------------- |
+| `Pclass`          | Passenger class (1st, 2nd, 3rd)                      |
+| `Sex`             | Gender of the passenger                              |
+| `Age`             | Age of the passenger                                 |
+| `SibSp`           | Number of siblings/spouses aboard                    |
+| `Parch`           | Number of parents/children aboard                    |
+| `Fare`            | Ticket fare paid                                     |
+| `Embarked`        | Port of embarkation                                  |
+| `Title`           | Extracted from `Name`, e.g., Mr, Mrs, Miss           |
+| `Deck`            | Extracted from `Cabin`                               |
+| `family_size`     | Calculated as `SibSp + Parch + 1`                    |
+| `is_alone`        | 1 if passenger is alone, 0 otherwise                 |
+| `fare_per_person` | `Fare / family_size`                                 |
+| `FareBin`         | Fare grouped into bins for easier modeling           |
+| `IsChild`         | 1 if passenger ≤ 12 years old, else 0                |
+| `AgeGroup`        | Age categories: Child, Teen, Adult, etc.             |
+| `Pclass_Title`    | Combination of `Pclass` and `Title` for more context |
+5)Open a Pull Request on GitHub.)  
+- [License](This project is licensed under the MIT License. See LICENSE
+ for details.  
+- [Contact / Support](Author: Akshata M Jadhav
+
+GitHub: AkshataJv
+
+Email: akshata.mjv@gmil.com
+
+Issues: Submit an issue)  
 
 ---
 
