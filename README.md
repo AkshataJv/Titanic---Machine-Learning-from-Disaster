@@ -701,7 +701,7 @@ I'm actively learning data science and documenting the journey. Let's connect an
 **Professional:**
 - 💼 **LinkedIn:** [linkedin.com/in/akshata-jadhav-5b5611344](https://linkedin.com/in/akshata-jadhav-5b5611344)
 - 💻 **GitHub:** [@AkshataJv](https://github.com/AkshataJv)
-- 📧 **Email:** akshata.mjv@gmail.com
+- 📧 **Email:** [akshata.mjv@gmail.com]
 
 **Writing:**
 - 📝 **Medium:** medium.com/@akshata.mjv
