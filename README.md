@@ -704,7 +704,7 @@ I'm actively learning data science and documenting the journey. Let's connect an
 - 📧 **Email:** [akshata.mjv@gmail.com]
 
 **Writing:**
-- 📝 **Medium:** medium.com/@akshata.mjv
+- 📝 **Medium:** [medium.com/@akshata.mjv](https://medium.com/@akshata.mjv)
 
 ---
 
